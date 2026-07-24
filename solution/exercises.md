@@ -3,7 +3,7 @@
 
 **Thời lượng:** 9h00–13h00
 **Cách làm:** Trả lời từng câu ngay sau khi hoàn thành block tương ứng —
-đừng để dồn hết về cuối buổi. Thay dòng `*Câu trả lời của bạn*` bằng câu
+đừng để dồn hết về cuối buổi. Thay dòng `Câu trả lời của bạn` bằng câu
 trả lời thật (chấm tự động sẽ đếm số câu đã trả lời).
 
 ---
